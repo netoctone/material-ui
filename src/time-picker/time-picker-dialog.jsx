@@ -38,7 +38,7 @@ const TimePickerDialog = React.createClass({
 
   getInitialState() {
     return {
-      open: false,
+      open: true,
       muiTheme: this.context.muiTheme ? this.context.muiTheme : ThemeManager.getMuiTheme(DefaultRawTheme),
     };
   },

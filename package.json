@@ -47,6 +47,7 @@
     "babel-preset-stage-1": "^6.3.13",
     "babel-runtime": "^6.3.19",
     "webpack": "^1.12.9",
+    "transfer-webpack-plugin": "^0.1.4",
     "express": "^4.13.1"
   },
   "devDependencies": {
